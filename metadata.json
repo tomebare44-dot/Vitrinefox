@@ -1,0 +1,6 @@
+{
+  "name": "VitrineFox",
+  "description": "Vitrine moderna de produtos e ofertas da Shopee com painel administrativo exclusivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

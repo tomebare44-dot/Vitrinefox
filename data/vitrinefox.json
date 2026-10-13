@@ -1,0 +1,169 @@
+{
+  "version": 1,
+  "auth": {
+    "salt": "1de8b20d74c6b424e795ac45ac6037a8",
+    "hash": "e8ab81aa92b7bc7a314e1442ff0d71e42eb55470ebbc3c571d659cdd8b1003ac4f0f8e886e72e7c2c029f22cd94a37d44849ac15562acd1cc293bf651beacc80"
+  },
+  "sessions": [
+    {
+      "token": "db0f0bbf4b1f740c7a653a4f43b5da7d687d3a39203c5e6929110a307395ff3b",
+      "createdAt": "2026-10-13T18:44:46.760Z",
+      "expiresAt": 1792003486760
+    },
+    {
+      "token": "019ee4c7183a370bf5222aa306dfffe3707e3133d0196516f1ee247eb437a907",
+      "createdAt": "2026-10-13T18:44:58.243Z",
+      "expiresAt": 1792003498243
+    }
+  ],
+  "settings": {
+    "storeName": "VitrineFox",
+    "tagline": "Os melhores achadinhos e cupons verificados da Shopee",
+    "logoUrl": null,
+    "heroBadgeText": "🔥 Ofertas Selecionadas Diariamente",
+    "heroTitle": "Achadinhos e Ofertas Imperdíveis na Shopee",
+    "heroSubtitle": "Economize tempo e dinheiro com produtos testados, avaliados e com os maiores descontos da semana.",
+    "heroBannerUrl": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?auto=format&fit=crop&w=1600&q=80",
+    "whatsappUrl": "https://wa.me/?text=Confira%20essas%20ofertas%20no%20VitrineFox!",
+    "instagramUrl": "https://instagram.com",
+    "telegramUrl": "https://t.me",
+    "offerButtonText": "Ver oferta",
+    "announcementText": "🎉 Frete Grátis e Cupons Exclusivos disponíveis hoje na Shopee!",
+    "isAnnouncementActive": true
+  },
+  "categories": [
+    {
+      "id": "cat-tech",
+      "name": "Eletrônicos & Tech",
+      "description": "Fones, smartwatches, carregadores e acessórios inteligentes",
+      "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=600&q=80",
+      "isActive": true,
+      "createdAt": "2026-10-13T18:44:12.744Z",
+      "updatedAt": "2026-10-13T18:44:12.744Z"
+    },
+    {
+      "id": "cat-home",
+      "name": "Casa & Decoração",
+      "description": "Achados práticos para facilitar a rotina e decorar seu espaço",
+      "imageUrl": "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?auto=format&fit=crop&w=600&q=80",
+      "isActive": true,
+      "createdAt": "2026-10-13T18:44:12.744Z",
+      "updatedAt": "2026-10-13T18:44:12.744Z"
+    },
+    {
+      "id": "cat-beauty",
+      "name": "Beleza & Cuidados",
+      "description": "Skincare, organizadores e itens de autocuidado mais bem avaliados",
+      "imageUrl": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=600&q=80",
+      "isActive": true,
+      "createdAt": "2026-10-13T18:44:12.744Z",
+      "updatedAt": "2026-10-13T18:44:12.744Z"
+    },
+    {
+      "id": "cat-kitchen",
+      "name": "Cozinha Criativa",
+      "description": "Utensílios inovadores e práticos para transformar o preparo de refeições",
+      "imageUrl": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=600&q=80",
+      "isActive": true,
+      "createdAt": "2026-10-13T18:44:12.744Z",
+      "updatedAt": "2026-10-13T18:44:12.744Z"
+    }
+  ],
+  "products": [
+    {
+      "id": "prod-1",
+      "name": "Fone de Ouvido Bluetooth Sem Fio com Cancelamento de Ruído TWS",
+      "originalPrice": 149.9,
+      "discountPercent": 42,
+      "promoPrice": 86.94,
+      "stock": 18,
+      "affiliateUrl": "https://shopee.com.br",
+      "categoryId": "cat-tech",
+      "isPublished": true,
+      "imageUrl": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=800&q=80",
+      "description": "Autonomia de até 28 horas com case carregador, conexão Bluetooth 5.3 ultra estável e som com graves reforçados.",
+      "createdAt": "2026-10-10T18:44:12.744Z",
+      "updatedAt": "2026-10-13T18:44:12.744Z"
+    },
+    {
+      "id": "prod-2",
+      "name": "Umidificador de Ar Ultrassônico & Luminária LED RGB 300ml",
+      "originalPrice": 89.9,
+      "discountPercent": 35,
+      "promoPrice": 58.44,
+      "stock": 24,
+      "affiliateUrl": "https://shopee.com.br",
+      "categoryId": "cat-home",
+      "isPublished": true,
+      "imageUrl": "https://images.unsplash.com/photo-1585771724684-38269d6639fd?auto=format&fit=crop&w=800&q=80",
+      "description": "Silencioso, melhora a qualidade do ar em quartos com ar condicionado e decora com 7 cores relaxantes.",
+      "createdAt": "2026-10-11T18:44:12.744Z",
+      "updatedAt": "2026-10-13T18:44:12.744Z"
+    },
+    {
+      "id": "prod-3",
+      "name": "Mini Processador e Triturador Elétrico de Alimentos USB sem Fio",
+      "originalPrice": 65,
+      "discountPercent": 30,
+      "promoPrice": 45.5,
+      "stock": 35,
+      "affiliateUrl": "https://shopee.com.br",
+      "categoryId": "cat-kitchen",
+      "isPublished": true,
+      "imageUrl": "https://images.unsplash.com/photo-1589365278144-c9e705f843ba?auto=format&fit=crop&w=800&q=80",
+      "description": "Lâminas de aço inoxidável em 3 camadas, tritura alho, cebola e temperos em apenas 10 segundos com um toque.",
+      "createdAt": "2026-10-12T18:44:12.744Z",
+      "updatedAt": "2026-10-13T18:44:12.744Z"
+    },
+    {
+      "id": "prod-4",
+      "name": "Relógio Smartwatch Esportivo com Monitor Cardíaco e Oxímetro",
+      "originalPrice": 199,
+      "discountPercent": 50,
+      "promoPrice": 99.5,
+      "stock": 12,
+      "affiliateUrl": "https://shopee.com.br",
+      "categoryId": "cat-tech",
+      "isPublished": true,
+      "imageUrl": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?auto=format&fit=crop&w=800&q=80",
+      "description": "Resistente à água IP68, notificações de WhatsApp e chamadas, bateria com até 7 dias de duração.",
+      "createdAt": "2026-10-13T18:44:12.744Z",
+      "updatedAt": "2026-10-13T18:44:12.744Z"
+    },
+    {
+      "id": "prod-5",
+      "name": "Organizador Giratório 360° Multiuso para Maquiagem e Cosméticos",
+      "originalPrice": 110,
+      "discountPercent": 28,
+      "promoPrice": 79.2,
+      "stock": 15,
+      "affiliateUrl": "https://shopee.com.br",
+      "categoryId": "cat-beauty",
+      "isPublished": true,
+      "imageUrl": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=80",
+      "description": "Bandejas ajustáveis com rotação suave e silenciosa, comporta até 30 pincéis e 20 frascos de produtos.",
+      "createdAt": "2026-10-13T18:44:12.744Z",
+      "updatedAt": "2026-10-13T18:44:12.744Z"
+    },
+    {
+      "id": "prod-6",
+      "name": "Lâmpada LED com Sensor de Presença Magnética Recarregável USB",
+      "originalPrice": 49.9,
+      "discountPercent": 0,
+      "promoPrice": 49.9,
+      "stock": 0,
+      "affiliateUrl": "https://shopee.com.br",
+      "categoryId": "cat-home",
+      "isPublished": true,
+      "imageUrl": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?auto=format&fit=crop&w=800&q=80",
+      "description": "Fixação magnética sem fios para armários, closet e escadas. Acendimento automático com alcance de 3 metros.",
+      "createdAt": "2026-10-13T18:44:12.744Z",
+      "updatedAt": "2026-10-13T18:44:12.744Z"
+    }
+  ],
+  "failedAttempts": {
+    "count": 0,
+    "lastAttempt": 0,
+    "lockedUntil": 0
+  }
+}
